@@ -34,6 +34,55 @@
             "tools"         : "removebg",
             "keterangan"    : "Tool untuk menghilangkan background pada gambar 100% otomatis dan gratis",
             "tags"          : ["media"]
+        },
+        {
+            "icon"          : "https://www.duplichecker.com/favicon.ico",
+            "url"           : "https://www.duplichecker.com",
+            "tools"         : "Dupli Checker",
+            "keterangan"    : "Alat untuk mengecek apakah terdapat kata-kata plagiat yang ditunjukan dengan persentase",
+            "tags"          : ["analisa", "SEO", "marketing"]
+        },
+        {
+            "icon"          : "https://www.freeconvert.com/favicon.png",
+            "url"           : "https://www.freeconvert.com",
+            "tools"         : "FreeConvert",
+            "keterangan"    : "Mengonversi file ke format apa pun seperti audio, video, dokumen, gambar, presentasi, arsip, font, ebook",
+            "tags"          : ["media", "kompresi", "konversi"]
+        },
+        {
+            "icon"          : "https://smallseotools.com/imgs/favicon.png",
+            "url"           : "https://smallseotools.com",
+            "tools"         : "Small SEO Tools",
+            "keterangan"    : "alat text lengkap untuk cek plagiat, menulis ulang artikel, cek pengucapan, menghitung jumlah kata dan lainnya",
+            "tags"          : ["analisa", "SEO", "marketing"]
+        },
+        {
+            "icon"          : "https://www.checkmoz.com/uploads/Untitled-1.png",
+            "url"           : "https://www.checkmoz.com",
+            "tools"         : "CheckMoz",
+            "keterangan"    : "alat untuk memeriksa domain authority (DA), page authority (PA), jumlah backlink, peringkat alexa dan peringkat moz pada sebuah website",
+            "tags"          : ["analisa", "SEO", "marketing"]
+        },
+        {
+            "icon"          : "",
+            "url"           : "https://gtmetrix.com/",
+            "tools"         : "GTmetrix",
+            "keterangan"    : "tools ini digunakan para SEO, web designer, web administartor dalam menganalisa seberapa cepat website mereka dapat dimuat. GTMetrix dapat melihat kinerja sebuah situs, disertai pemebahasan yang detail dan cera untuk mengoptimalkannya kembali.",
+            "tags"          : ["analisa", "SEO", "marketing"]
+        },
+        {
+            "icon"          : "https://app.creative-tim.com/argon/static/img/favicon.png",
+            "url"           : "https://www.creative-tim.com/builder/argon",
+            "tools"         : "Argon Web Builder",
+            "keterangan"    : "Web builder adalah tools untuk membuat website secara cepat tanpa coding. Argon web builder dapat membuat halaman landing page menarik untuk bisnis kalian hanya dengan menggunakan komponen yang sudah disediakan. Dapat dieksport ke file html untuk diedit ulang. Argon web builder menggunakan bootsrap",
+            "tags"          : ["web design", "frontend", "UI", "Pemrograman"]
+        },
+        {
+            "icon"          : "https://undraw.co/favicon.ico",
+            "url"           : "https://undraw.co",
+            "tools"         : "unDraw",
+            "keterangan"    : "Buat website, produk, dan aplikasi jadi lebih menarik. Cari gambar yang sesuai dengan bisnis kalian, sesuaikan warna secara otomatis agar sesuai dengan merek kalian dan gunakan secara gratis tanpa atribusi. open source illustrations dan gambar yang terus diperbarui",
+            "tags"          : ["web design", "illustrasi", "media"]
         }
     ]
 }
