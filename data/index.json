@@ -1,0 +1,39 @@
+{
+    "author"    : "Nabil Putra",
+    "instagram" : "https://www.instagram.com/nabil_chen",
+    "mail"      : "escendol900@gmail.com",
+    "twitter"   : "https://twitter.com/nabil_chen",
+    "linkedin"  : "https://www.linkedin.com/in/nabil-putra-24b0b1171/",
+    "web"       : "https://www.sahretech.com",
+
+    "data"      : [
+        {
+            "icon"          : "https://kraken-nekkraug.netdna-ssl.com/favicon-32x32.png",
+            "url"           : "https://kraken.io",
+            "tools"         : "kraken.io",
+            "keterangan"    : "Tools online untuk mengecilkan ukuran gambar tanpa mengurangi resolusi",
+            "tags"          : ["konversi", "kompresi", "media"]
+        },
+        {
+            "icon"          : "https://static.convertio.co/favicon.ico",
+            "url"           : "https://convertio.co",
+            "tools"         : "convertio.co",
+            "keterangan"    : "Mengonversi file ke format apa pun seperti audio, video, dokumen,gambar, presentasi, arsip, font, ebook",
+            "tags"          : ["konversi", "kompresi", "media"]
+        },
+        {
+            "icon"          : "",
+            "url"           : "https://clrs.cc/",
+            "tools"         : "COLORS",
+            "keterangan"    : "Warna-warna pilihan terbaik untuk tampilan website yang lebih modern",
+            "tags"          : ["web design", "frontend", "UI", "Pemrograman"]
+        },
+        {
+            "icon"          : "",
+            "url"           : "https://www.remove.bg/favicon-32x32.png?v=YAXaAv7pao",
+            "tools"         : "removebg",
+            "keterangan"    : "Tool untuk menghilangkan background pada gambar 100% otomatis dan gratis",
+            "tags"          : ["media"]
+        }
+    ]
+}
