@@ -90,6 +90,20 @@
             "tools"         : "Slides Carnival",
             "keterangan"    : "Bikin presentasi keren dan mempesona dengan banyak pilihan warna dan tema. Tersedia komponen-komponen yang lengkap sehingga kalian tidak perlu mendesain ulang",
             "tags"          : ["presentasi"]
+        },
+        {
+            "icon"          : "https://hotpot.ai/images/apple-touch-icon.png",
+            "url"           : "https://hotpot.ai/colorize-picture",
+            "tools"         : "Hotpot",
+            "keterangan"    : "merubah warna foto hitam putih jadul anda menjadi berwarna hanya dalam hitung detik",
+            "tags"          : ["media", "konversi"]
+        },
+        {
+            "icon"          : "https://theinpaint.com/favicon.ico",
+            "url"           : "https://theinpaint.com/",
+            "tools"         : "Inpaint",
+            "keterangan"    : "Hapus Objek Secara Ajaib Dari Foto Anda Secara Online! Inpaint akan secara ajaib mengisi area yang dipilih dengan tekstur yang dihasilkan secara cerdas yang diambil dari data gambar di sekitarnya. Buka halaman Tutorial kami dan lihat sendiri betapa mudahnya bagi siapa saja untuk melakukannya hanya dengan beberapa langkah sederhana.",
+            "tags"          : ["media", "konversi"]
         }
     ]
 }
