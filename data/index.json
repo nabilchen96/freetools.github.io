@@ -83,6 +83,13 @@
             "tools"         : "unDraw",
             "keterangan"    : "Buat website, produk, dan aplikasi jadi lebih menarik. Cari gambar yang sesuai dengan bisnis kalian, sesuaikan warna secara otomatis agar sesuai dengan merek kalian dan gunakan secara gratis tanpa atribusi. open source illustrations dan gambar yang terus diperbarui",
             "tags"          : ["web design", "illustrasi", "media"]
+        },
+        {
+            "icon"          : "https://slidescarnival-d1aa.kxcdn.com/wp-content/uploads/2016/08/favicon512-405x405.png",
+            "url"           : "https://slidescarnival.com",
+            "tools"         : "Slides Carnival",
+            "keterangan"    : "Bikin presentasi keren dan mempesona dengan banyak pilihan warna dan tema. Tersedia komponen-komponen yang lengkap sehingga kalian tidak perlu mendesain ulang",
+            "tags"          : ["web design", "illustrasi", "media"]
         }
     ]
 }
