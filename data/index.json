@@ -104,6 +104,20 @@
             "tools"         : "Inpaint",
             "keterangan"    : "Hapus Objek Secara Ajaib Dari Foto Anda Secara Online! Inpaint akan secara ajaib mengisi area yang dipilih dengan tekstur yang dihasilkan secara cerdas yang diambil dari data gambar di sekitarnya. Buka halaman Tutorial kami dan lihat sendiri betapa mudahnya bagi siapa saja untuk melakukannya hanya dengan beberapa langkah sederhana.",
             "tags"          : ["media", "konversi"]
-        }
+        },
+        {
+            "icon"          : "",
+            "url"           : "https://www.wappalyzer.com/",
+            "tools"         : "Wappalyzer",
+            "keterangan"    : "Cari tahu tumpukan teknologi situs web mana pun. Buat daftar situs web yang menggunakan teknologi tertentu, dengan detail perusahaan dan kontak. Gunakan alat kami untuk menghasilkan prospek, analisis pasar, dan riset pesaing.",
+            "tags"          : ["analisa", "pemrograman"]
+        },
+        {
+            "icon"          : "https://www.paraphraser.io/assets/frontend/images/favicon.ico",
+            "url"           : "https://www.paraphraser.io",
+            "tools"         : "PARAPHRASER",
+            "keterangan"    : "Alat parafrase online memiliki banyak fitur termasuk, menulis ulang esai, menghapus plagiarisme, dan menulis ulang artikel. Alat parafrase kami berfungsi paling baik sebagai pengubah kata dan pengungkap kalimat.",
+            "tags"          : ["analisa", "teks", "media"]
+        },
     ]
 }
