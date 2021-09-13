@@ -85,6 +85,27 @@
             "tags"          : ["web design", "illustrasi", "media"]
         },
         {
+            "icon"          : "https://unsplash.com/mstile-144x144.png",
+            "url"           : "https://unsplash.com/",
+            "tools"         : "unsplash",
+            "keterangan"    : "gudang gambar gratis paling terkenal, memiliki berbagai kategori gambar dengan koleksi lebih dari 2 juta gambar dan terus diperbarui",
+            "tags"          : ["media", "gambar"]
+        },
+        {
+            "icon"          : "https://www.pexels.com/assets/icons/pexels-icon-644533b609157fd990b1a6675626d63077ae1fb81e819c83f81dc2242877d413.png",
+            "url"           : "https://www.pexels.com/id-id/",
+            "tools"         : "pexels",
+            "keterangan"    : "Mudah mencari gambar gratis untuk membuat konten anda. Pexels memiliki banyak gambar indah dengan beragam kategori",
+            "tags"          : ["media", "gambar"]
+        },
+        {
+            "icon"          : "https://www.reshot.com/build/favicons/favicon-0bb9e921bc9ae442e0c1dfda42d7cf745ae50a71735f2170fe988b08bc220054.png",
+            "url"           : "https://www.reshot.com/",
+            "tools"         : "Reshot",
+            "keterangan"    : "Bebas download icon, gambar dan ilustrasi dengan commercial licenses tanpa atribusi. Banyak pilihan dengan beragam kategori",
+            "tags"          : ["media", "gambar", "illustrasi", "icon"]
+        },
+        {
             "icon"          : "https://slidescarnival-d1aa.kxcdn.com/wp-content/uploads/2016/08/favicon512-405x405.png",
             "url"           : "https://slidescarnival.com",
             "tools"         : "Slides Carnival",
