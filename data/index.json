@@ -139,6 +139,28 @@
             "tools"         : "PARAPHRASER",
             "keterangan"    : "Alat parafrase online memiliki banyak fitur termasuk, menulis ulang esai, menghapus plagiarisme, dan menulis ulang artikel. Alat parafrase kami berfungsi paling baik sebagai pengubah kata dan pengungkap kalimat.",
             "tags"          : ["analisa", "teks", "media"]
+        },
+        {
+            "icon"          : "https://www.alexa.com/favicon.ico",
+            "url"           : "https://www.alexa.com",
+            "tools"         : "Alexa Pagerank",
+            "keterangan"    : "Dapatkan analisis situs web otomatis gratis untuk mendapatkan wawasan tentang kekuatan, kelemahan, dan peluang pemasaran digital situs dengan cepat.",
+            "tags"          : ["SEO", "analisa", "website", "pemasaran", "marketing"]
+        },
+        {
+            "icon"          : "https://pixabay.com/favicon-32x32.png",
+            "url"           : "https://pixabay.com",
+            "tools"         : "Pixabay",
+            "keterangan"    : "Gambar gratis yang menakjubkan Temukan lebih dari 2,4 juta gambar dan video yang dibagikan oleh komunitas kami yang dermawan tanpa atribusi",
+            "tags"          : ["gambar", "illustrasi", "media", "vektor"]
+        },
+        {
+            "icon"          : "https://ssl.gstatic.com/trends_nrtr/2674_RC03/favicon.ico",
+            "url"           : "https://trends.google.com",
+            "tools"         : "Google Trends",
+            "keterangan"    : "Cari dan temukan berita terpopuler di seluruh dunia, dan temukan peluang pasar dari setiap konten yang paling banyak dicari",
+            "tags"          : ["berita", "pemasaran", "trending", "SEO", "marketing"]
         }
+
     ]
 }
