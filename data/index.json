@@ -160,6 +160,27 @@
             "tools"         : "Google Trends",
             "keterangan"    : "Cari dan temukan berita terpopuler di seluruh dunia, dan temukan peluang pasar dari setiap konten yang paling banyak dicari",
             "tags"          : ["berita", "pemasaran", "trending", "SEO", "marketing"]
+        }, 
+        {
+            "icon"          : "",
+            "url"           : "https://jsonplaceholder.typicode.com",
+            "tools"         : "JSONPlaceholder",
+            "keterangan"    : "Free fake API for testing and prototyping. Powered by JSON Server + LowDB. Tested with XV.",
+            "tags"          : ["developer", "programmer"]
+        },
+        {
+            "icon"          : "https://www.writephponline.com/assets/images/favicon-32x32.png",
+            "url"           : "https://www.writephponline.com",
+            "tools"         : "writephponline.com",
+            "keterangan"    : "Testing dan uji coba snytax php secara cepat dan mudah tanpa buka webserver terlebih dahulu.",
+            "tags"          : ["developer", "programmer"]
+        },
+        {
+            "icon"          : "https://snapwidget.com/favicon-32x32.png?v=kPv3jxEYLB",
+            "url"           : "https://snapwidget.com",
+            "tools"         : "SnapWidget",
+            "keterangan"    : "SnapWidget is the best way to display your photos and videos on your website. Create your FREE account today to get started.",
+            "tags"          : ["developer", "programmer", "media", "marketing"]
         }
 
     ]
